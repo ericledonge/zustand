@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 
-h1, label {
+h1, label, code {
   color: white;
   text-align: center;
 }
